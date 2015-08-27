@@ -14,6 +14,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'devise', '~> 3.5.0'
 gem 'paperclip', '~> 4.3.0'
+gem 'haml', '~> 4.0.7'
+gem 'simple_form', '~> 3.1.0'
 
 group :development, :test do
   gem 'byebug'
